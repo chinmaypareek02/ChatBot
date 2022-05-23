@@ -6,4 +6,3 @@ This is returing question to user on UI.
 
 Response : What is your email id!
 
-[Uploading Screenshot 2022-05-23 at 4.42.40 PM.png…]()
